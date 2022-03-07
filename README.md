@@ -1,7 +1,5 @@
 # Amazon Chime Live Events
 
-
-
 This demo is a small app that will showcase the features of the Chime SDK and show how a live event application can be built. The live event application is different from a regular meeting and it has users with specific roles like:
 1. **Attendee** is a regular role for a user that joins the event to watch the stream. The attendee can raise its hand during the event and ask questions.
 1. **Moderator** role has admin level priviliges and can manage attendees' raised hands, promote an attendee's video to the live stream, and manage other aspects of the live stream.
